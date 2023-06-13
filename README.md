@@ -1,3 +1,3 @@
-# Responsive Travel Website 
+# Responsive website
 
 
